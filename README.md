@@ -7,3 +7,4 @@ local-ask-your-docs/
 ├── requirements.txt
 ├── data/
 │   └── lecture_notes.pdf
+"Last updated: $(date)" 
